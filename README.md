@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sydykovkanat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&custom_title=See%20how%20I%20look" height="100%" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sydykovkanat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&custom_title=I%20frequently%20use%20it." height="100%" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sydykovkanat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&custom_title=I%20frequently%20use%20it." height="195" alt="languages graph"  />
 </div>
 
 ###
